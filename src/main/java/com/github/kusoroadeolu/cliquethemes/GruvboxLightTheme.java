@@ -6,7 +6,7 @@ import com.github.kusoroadeolu.clique.themes.CliqueTheme;
 
 import java.util.Map;
 
-public class GruvboxLightPalette implements CliqueTheme {
+public class GruvboxLightTheme implements CliqueTheme {
 
     @Override
     public String themeName() {
